@@ -20,7 +20,7 @@ const AuthStuff = () => {
         azureAD={false}
         github={false}
         twitter={false}
-        customProviders={[{ id: "auth0", name: "Auth0" }]}
+        customProviders={[{ id: "azureb2c", name: "AzureB2C" }]}
       />
     </>
   );

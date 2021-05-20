@@ -2,7 +2,7 @@
   "auth": {
     "identityProviders": {
       "customOpenIdConnectProviders": {
-        "auth0": {
+        "azureb2c": {
           "registration": {
             "clientIdSettingName": "CLIENT_ID",
             "clientCredential": {
